@@ -1,98 +1,106 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=190&section=header&text=Cupidnavaz&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Finance&descAlignY=58&descSize=17" alt="Animated banner introducing Cupidnavaz" width="100%" />
+
+<a href="https://github.com/cupidnavaz">
+  <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="140" height="140" style="border-radius:50%" />
+</a>
+
 # Hi, I'm Cupidnavaz 👋
 
-**Data Scientist & Developer** | ML/AI Enthusiast | Analytics & Finance Specialist
+### Data Scientist & Developer · ML/AI Enthusiast · Analytics & Finance Specialist
 
-Welcome to my GitHub profile! I'm passionate about leveraging data science and machine learning to solve complex problems in finance, analytics, and market intelligence. I build robust data pipelines, develop predictive models, and create data-driven solutions that drive real business impact.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+data+into+actionable+insights;Building+predictive+analytics+and+ML+solutions;Exploring+financial+data+and+market+trends" alt="Animated typing text: Turning data into actionable insights; building predictive analytics and ML solutions; exploring financial data and market trends" />
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-cupidnavaz-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cupidnavaz)
+[![Focus](https://img.shields.io/badge/Focus-Data%20%26%20ML-0891B2?style=for-the-badge)](#-what-im-working-on)
 
-I'm a data scientist and developer with a deep interest in machine learning, financial analytics, and market trend forecasting. I enjoy:
-
-- 🔭 Building and deploying ML models for real-world applications
-- 📊 Designing scalable data pipelines and analytics solutions
-- 💹 Developing financial analytics tools and market forecasting models
-- 🌱 Continuously learning new technologies and best practices
-- 💬 Collaborating with teams and sharing knowledge
-- 🎯 Turning raw data into actionable insights
-- ⚡ Writing efficient, production-ready code
-
-## 🛠️ Tech Stack
-
-### Languages & Core Tools
-- **Python** - Primary language for ML/data science
-- **SQL** - Database design and complex queries
-- **PHP** - Web development
-- **HTML/CSS** - Frontend development
-
-### Data Science & ML
-- Machine Learning Model Development
-- Data Pipeline Engineering
-- Statistical Analysis & Forecasting
-- Financial Analytics
-
-### Tools & Platforms
-- **Docker** - Containerization and deployment
-- **Power BI** - Data visualization and dashboards
-- **Microsoft Excel** - Advanced analytics and data manipulation
-- **Git & GitHub** - Version control and collaboration
-
-## 🎯 Current Focus
-
-- 🤖 Building ML models for predictive analytics
-- 🔄 Designing and optimizing data pipelines
-- 💰 Developing financial analytics solutions
-- 📈 Creating market trend forecasting models
-- 🚀 Deploying scalable, production-ready applications
-
-## 📊 GitHub Stats
-
-![Cupidnavaz GitHub Stats](https://github-readme-stats.vercel.app/api?username=cupidnavaz&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cupidnavaz&layout=compact&theme=radical)
-
-## 🏆 Featured Projects
-
-*Coming soon! Check back for exciting projects in ML/AI, financial analytics, and market forecasting.*
-
-<!-- 
-Add your featured projects here with:
-- Project name
-- Brief description
-- Tech stack
-- Repository link
--->
-
-## 📚 Blog & Articles
-
-*Share your technical articles and insights here soon!*
-
-<!-- Add links to your blog posts, Medium articles, or technical writing -->
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on data science projects, discussing ML innovations, or exploring opportunities in finance and analytics!
-
-*Your social links coming soon*
-
-<!-- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](your-portfolio-url)
--->
-
-## 💡 What I'm Up To
-
-- 🔬 Developing and refining ML models
-- 🏗️ Building data infrastructure and pipelines
-- 📖 Learning advanced techniques in deep learning and financial modeling
-- 🌍 Contributing to the data science community
-- 💼 Creating data solutions that solve real business problems
+</div>
 
 ---
 
-**Fun fact:** *Share something unique about yourself here!*
+## ✨ About Me
 
-*Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data science, ML, or finance!* 🚀
+I enjoy using data science and machine learning to explore challenging problems in **finance, analytics, and market intelligence**. My work and learning span the full journey—from building data pipelines and analyzing trends to developing models and turning results into useful insights.
 
-*Last updated: August 2026*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 What I enjoy</h3>
+      <ul>
+        <li>Building ML models for real-world predictive analytics</li>
+        <li>Designing reliable data pipelines and analytics solutions</li>
+        <li>Exploring financial data and market forecasting</li>
+        <li>Writing efficient, production-minded code</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Current interests</h3>
+      <ul>
+        <li>Machine learning and deep learning</li>
+        <li>Statistical analysis and forecasting</li>
+        <li>Scalable data infrastructure</li>
+        <li>Data visualization and business insights</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Toolkit
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+| 🧪 Data & ML | 📈 Analytics | ⚙️ Engineering |
+|:---:|:---:|:---:|
+| Model development · Statistical analysis | Financial analytics · Forecasting | Data pipelines · Docker · Git |
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=cupidnavaz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE" alt="GitHub profile statistics for Cupidnavaz" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupidnavaz&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" alt="Most-used programming languages for Cupidnavaz" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cupidnavaz&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity chart for Cupidnavaz" width="98%" />
+</div>
+
+## 🚀 What I'm Working On
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%"><h3>🤖 Predictive ML</h3><p>Developing models for predictive analytics.</p></td>
+    <td align="center" width="33%"><h3>🔄 Data Pipelines</h3><p>Designing and optimizing data workflows.</p></td>
+    <td align="center" width="33%"><h3>💹 Finance & Markets</h3><p>Exploring financial analytics and market trends.</p></td>
+  </tr>
+</table>
+</div>
+
+## 🏆 Featured Projects
+
+I'm shaping projects around **ML/AI, financial analytics, and market forecasting**. Check back as I share more work here.
+
+## 🤝 Let's Connect
+
+I'm happy to connect with people interested in data science, machine learning, finance, and analytics. Visit my [GitHub profile](https://github.com/cupidnavaz) to explore my repositories.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" alt="Decorative animated footer wave" width="100%" />
+
+*Thanks for stopping by — let's turn data into something useful.* ✨
+
+</div>
