@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=190&section=header&text=Cupidnavaz&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Finance&descAlignY=58&descSize=17" alt="Animated banner introducing Cupidnavaz" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,35:312E81,75:06B6D4,100:0B1021&height=220&section=header&text=Cupidnavaz&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20%7C%20ML%20%7C%20Analytics%20%7C%20Finance&descAlignY=60&descSize=18" alt="Animated profile banner" width="100%" />
 
 <a href="https://github.com/cupidnavaz">
-  <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="140" height="140" style="border-radius:50%" />
+  <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="150" height="150" style="border-radius:50%; border:3px solid #22d3ee; box-shadow:0 0 28px rgba(34,211,238,.55);" />
 </a>
 
 # Hi, I'm Cupidnavaz 👋
 
-### Data Scientist & Developer · ML/AI Enthusiast · Analytics & Finance Specialist
+### Data Scientist • Developer • ML/AI Enthusiast • Finance & Analytics Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+data+into+actionable+insights;Building+predictive+analytics+and+ML+solutions;Exploring+financial+data+and+market+trends" alt="Animated typing text: Turning data into actionable insights; building predictive analytics and ML solutions; exploring financial data and market trends" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7DD3FC&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+business+insights;Building+predictive+models+and+data+pipelines;Exploring+markets,+AI,+and+scalable+solutions" alt="Typing animation about data science and ML" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-cupidnavaz-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cupidnavaz)
-[![Focus](https://img.shields.io/badge/Focus-Data%20%26%20ML-0891B2?style=for-the-badge)](#-what-im-working-on)
+[![GitHub](https://img.shields.io/badge/GitHub-cupidnavaz-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cupidnavaz)
+[![Portfolio](https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-06b6d4?style=for-the-badge)](#-what-im-working-on)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-8b5cf6?style=for-the-badge)](mailto:hello@example.com)
 
 </div>
 
@@ -21,32 +22,34 @@
 
 ## ✨ About Me
 
-I enjoy using data science and machine learning to explore challenging problems in **finance, analytics, and market intelligence**. My work and learning span the full journey—from building data pipelines and analyzing trends to developing models and turning results into useful insights.
+I’m a data scientist and developer passionate about building intelligent systems that solve real-world problems in <b>finance</b>, <b>analytics</b>, and <b>market intelligence</b>. I enjoy working with data from end to end—from collection and transformation to modeling, forecasting, and decision support.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 What I enjoy</h3>
+      <h3>🧠 Core Interests</h3>
       <ul>
-        <li>Building ML models for real-world predictive analytics</li>
-        <li>Designing reliable data pipelines and analytics solutions</li>
-        <li>Exploring financial data and market forecasting</li>
-        <li>Writing efficient, production-minded code</li>
+        <li>Machine learning and predictive analytics</li>
+        <li>Scalable data pipelines and automation</li>
+        <li>Financial analytics and forecasting</li>
+        <li>Exploratory analysis for business decisions</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Current interests</h3>
+      <h3>🚀 My Mission</h3>
       <ul>
-        <li>Machine learning and deep learning</li>
-        <li>Statistical analysis and forecasting</li>
-        <li>Scalable data infrastructure</li>
-        <li>Data visualization and business insights</li>
+        <li>Turn raw data into actionable insights</li>
+        <li>Build practical, production-ready systems</li>
+        <li>Learn continuously and ship useful tools</li>
+        <li>Collaborate on meaningful, data-driven work</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 🧰 Toolkit
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -57,50 +60,93 @@ I enjoy using data science and machine learning to explore challenging problems 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-| 🧪 Data & ML | 📈 Analytics | ⚙️ Engineering |
+| 🧪 Data & ML | 📊 Analytics | ⚙️ Engineering |
 |:---:|:---:|:---:|
-| Model development · Statistical analysis | Financial analytics · Forecasting | Data pipelines · Docker · Git |
+| Model development • Forecasting • Statistical analysis | Financial analytics • Reporting • Visualization | Pipelines • Automation • Deployment |
 
-## 📊 GitHub Dashboard
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=cupidnavaz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE" alt="GitHub profile statistics for Cupidnavaz" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupidnavaz&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" alt="Most-used programming languages for Cupidnavaz" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cupidnavaz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0&icon_color=8B5CF6&ring_color=22D3EE&count_private=true" alt="GitHub stats for Cupidnavaz" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupidnavaz&layout=compact&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0" alt="Top languages for Cupidnavaz" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cupidnavaz&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity chart for Cupidnavaz" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cupidnavaz&bg_color=0F172A&color=E2E8F0&line=22D3EE&point=8B5CF6&area=true&hide_border=true" alt="Contribution graph for Cupidnavaz" width="98%" />
 </div>
+
+---
 
 ## 🚀 What I'm Working On
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="33%"><h3>🤖 Predictive ML</h3><p>Developing models for predictive analytics.</p></td>
-    <td align="center" width="33%"><h3>🔄 Data Pipelines</h3><p>Designing and optimizing data workflows.</p></td>
-    <td align="center" width="33%"><h3>💹 Finance & Markets</h3><p>Exploring financial analytics and market trends.</p></td>
+    <td align="center" width="33%">
+      <h3>🤖 Predictive ML</h3>
+      <p>Building models for forecasting and data-driven decisions.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔄 Data Pipelines</h3>
+      <p>Designing efficient and scalable data workflows.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💹 Finance & Markets</h3>
+      <p>Exploring trends, signals, and analytical tools for finance.</p>
+    </td>
   </tr>
 </table>
 </div>
 
+---
+
 ## 🏆 Featured Projects
 
-I'm shaping projects around **ML/AI, financial analytics, and market forecasting**. Check back as I share more work here.
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Market Intelligence</h3>
+      <p>Analytics and forecasting solutions for meaningful financial insights.</p>
+      <code>Python • SQL • Data Analysis</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 ML Solutions</h3>
+      <p>Predictive models and experimental workflows for real-world problems.</p>
+      <code>Machine Learning • AI • Automation</code>
+    </td>
+  </tr>
+</table>
+</div>
+
+> More project showcases coming soon — stay tuned for data-driven builds and experiments.
+
+---
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with people interested in data science, machine learning, finance, and analytics. Visit my [GitHub profile](https://github.com/cupidnavaz) to explore my repositories.
+I’m always open to learning, collaborating, and discussing ideas around <b>data science</b>, <b>machine learning</b>, <b>analytics</b>, and <b>finance</b>.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" alt="Decorative animated footer wave" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://example.com)
 
-*Thanks for stopping by — let's turn data into something useful.* ✨
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,30:312E81,70:06B6D4,100:0B1021&height=90&section=footer" alt="Footer wave decoration" width="100%" />
+
+<p><b>Thanks for visiting my profile.</b> I build with data, curiosity, and a passion for solving meaningful problems. ✨</p>
 
 </div>
