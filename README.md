@@ -6,7 +6,7 @@
   <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="140" />
 </a>
 
-# Hi, I'm Cupidnavaz 👋
+# Hi, I'm UCHENNA GODSWILL 👋
 
 ### Data Scientist · Developer · ML/AI Enthusiast · Finance & Analytics Specialist
 
