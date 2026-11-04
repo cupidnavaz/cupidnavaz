@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111A44,35:111A44,75:F5821F,100:111A44&height=220&section=header&text=Cupidnavaz&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20%7C%20ML%20%7C%20Analytics%20%7C%20Finance&descAlignY=60&descSize=18" alt="Animated profile banner" width="100%" />
 
 <a href="https://github.com/cupidnavaz">
-  <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="140" />
+  <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="140" rounded />
 </a>
 
 # Hi, I'm UCHENNA GODSWILL 👋
