@@ -73,7 +73,22 @@ I’m a data scientist and developer interested in applying machine learning and
 ## 📊 Live GitHub Dashboard
 
 <!-- PROFILE-DASHBOARD:START -->
-_The live dashboard will appear here after the profile activity workflow runs._
+### ⚡ Latest public activity
+
+| Public repositories | Followers | Following | Public gists |
+|:---:|:---:|:---:|:---:|
+| 29 | 7 | 8 | 1 |
+
+- 🔨 **Pushed code** to [cupidnavaz/my-professional-portfolio](https://github.com/cupidnavaz/my-professional-portfolio/commit/5ecd0783e271d99b07a25b5b8c9c02a55714f5b8) — pushed 0 commits to `main`.
+- 🔨 **Pushed code** to [cupidnavaz/my-professional-portfolio](https://github.com/cupidnavaz/my-professional-portfolio/commit/27cddd9edb7e0b644b5adbe0719b181b18700bf1) — pushed 0 commits to `main`.
+- 🔨 **Pushed code** to [cupidnavaz/my-professional-portfolio](https://github.com/cupidnavaz/my-professional-portfolio/commit/ac9de9d5f463af30395185d6274783d9f152ddaf) — pushed 0 commits to `main`.
+- 🔨 **Pushed code** to [cupidnavaz/farm-project](https://github.com/cupidnavaz/farm-project/commit/c7930e6fd555a73c904aa53682ecb0612b77d5e6) — pushed 0 commits to `master`.
+- 🔨 **Pushed code** to [cupidnavaz/cupidnavaz](https://github.com/cupidnavaz/cupidnavaz/commit/3b8efad66e3b26f54221c230959eb36717073eac) — pushed 0 commits to `main`.
+- 🔨 **Pushed code** to [cupidnavaz/cupidnavaz](https://github.com/cupidnavaz/cupidnavaz/commit/1d387f9ca6ee2ab84d980ac83abdfcfc0aa70808) — pushed 0 commits to `main`.
+- 🔨 **Pushed code** to [cupidnavaz/cupidnavaz](https://github.com/cupidnavaz/cupidnavaz/commit/3f4160e0d30d2cc13b0b4403556f23a55e0392bb) — pushed 0 commits to `main`.
+- 🔨 **Pushed code** to [cupidnavaz/my-professional-portfolio](https://github.com/cupidnavaz/my-professional-portfolio/commit/ce554ff9fcb782bd6704d6d32be2c41f8cca466c) — pushed 0 commits to `main`.
+
+<sub>Fetched from the GitHub public API · Last refreshed: 2026-11-04 06:21 UTC</sub>
 <!-- PROFILE-DASHBOARD:END -->
 
 This section is generated from GitHub’s public profile and activity API. It refreshes on a schedule; GitHub Actions scheduling and public event data may be delayed, so updates are near-real-time rather than instantaneous.
