@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,35:312E81,75:06B6D4,100:0B1021&height=220&section=header&text=Cupidnavaz&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20%7C%20ML%20%7C%20Analytics%20%7C%20Finance&descAlignY=60&descSize=18" alt="Animated profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111A44,35:4C7FFF,75:F5821F,100:111A44&height=220&section=header&text=Cupidnavaz&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20%7C%20ML%20%7C%20Analytics%20%7C%20Finance&descAlignY=60&descSize=18" alt="Animated profile banner" width="100%" />
 
 <a href="https://github.com/cupidnavaz">
   <img src="https://github.com/cupidnavaz.png" alt="Cupidnavaz profile avatar" width="140" />
@@ -10,10 +10,10 @@
 
 ### Data Scientist · Developer · ML/AI Enthusiast · Finance & Analytics Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7DD3FC&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+actionable+insights;Building+predictive+models+and+data+pipelines;Exploring+markets,+AI,+and+scalable+solutions" alt="Animated text about data science and machine learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=4C7FFF&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+actionable+insights;Building+predictive+models+and+data+pipelines;Exploring+markets,+AI,+and+scalable+solutions" alt="Animated text about data science and machine learning" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-cupidnavaz-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cupidnavaz)
-[![Focus](https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-06b6d4?style=for-the-badge)](#-what-im-working-on)
+[![GitHub](https://img.shields.io/badge/GitHub-cupidnavaz-111a44?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cupidnavaz)
+[![Focus](https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-f5821f?style=for-the-badge)](#-what-im-working-on)
 
 </div>
 
@@ -115,7 +115,7 @@ I’m open to connecting with people interested in data science, machine learnin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,30:312E81,70:06B6D4,100:0B1021&height=90&section=footer" alt="Decorative footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111A44,30:4C7FFF,70:F5821F,100:111A44&height=90&section=footer" alt="Decorative footer wave" width="100%" />
 
 **Thanks for visiting — let's turn data into something useful.** ✨
 
